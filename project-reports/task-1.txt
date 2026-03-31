@@ -1,0 +1,19 @@
+For this portion of the project, I used Canva to design a clean and engaging informational graphic focused on digital literacy and security. The tool was selected for its balance of professional layout capabilities and its library of modern, flat-design illustrations that help simplify complex technical concepts for a general audience.
+
+Design Overview
+
+The design focuses on Online Safety Basics, structured with high-contrast text and a vibrant green-and-cream color palette to ensure readability and visual appeal. It highlights four fundamental pillars of digital security:
+
+The use of strong, unique passwords.
+
+The protection of personal data.
+
+The implementation of Two-Factor Authentication (2FA).
+
+Caution when using public Wi-Fi networks.
+
+I chose a minimalist layout to prevent "information overload," using specific icons like the laptop and book to represent the intersection of technology and education.
+
+Technical Reflection
+
+One aspect I found particularly interesting was the visual hierarchy. Balancing the size of the "DIGITAL LITERACY" heading against the list of safety tips required careful adjustment of negative space. It was a useful exercise in learning how to guide a reader’s eye from a broad concept down to actionable steps without the graphic feeling cluttered or overwhelming.

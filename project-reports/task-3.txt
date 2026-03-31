@@ -1,0 +1,9 @@
+For the final component of my project report, I focused on utilizing HackerRank and Google Forms to bridge the gap between technical skill acquisition and structured data collection.
+
+Platform Application
+
+On HackerRank, I dedicated time to practicing core algorithmic challenges and SQL queries. This platform allowed me to move beyond basic syntax and focus on optimizing code efficiency. By solving problems related to data structures and functional programming, I was able to transition from theoretical knowledge to hands-on implementation. Simultaneously, I used Google Forms to design and distribute a structured survey. This tool was essential for gathering peer feedback and organizing quantitative data into a manageable format for analysis.
+
+Academic Impact
+
+These platforms will be instrumental to my academic success over the next few years. HackerRank provides a standardized environment to prepare for technical assessments and lab exams, ensuring my coding logic remains sharp and industry-ready. Meanwhile, Google Forms simplifies the research process for group projects and data-driven assignments, allowing me to collect and visualize information quickly. Together, these tools foster a disciplined approach to both software development and academic research, preparing me for the rigorous technical demands of my degree.
